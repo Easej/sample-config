@@ -65,7 +65,7 @@ app:
   # within a subscription.
   endpoints: public
 
-   services:
+  services:
     - servicename: com.amazonaws.vpce.us-east-1.vpce-svc-09901713ab317ecfa
 
   # Set the Java runtime version for the application. Set to 8 for IBM Java 8,
